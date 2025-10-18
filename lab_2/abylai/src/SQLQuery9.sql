@@ -1,0 +1,1 @@
+DBCC SHRINKDATABASE (Stud_Муслиманов_Абылай, 25);

@@ -1,0 +1,1 @@
+EXEC sp_helpdb Stud_Муслиманов_Абылай;

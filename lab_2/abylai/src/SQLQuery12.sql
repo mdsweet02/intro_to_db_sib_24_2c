@@ -1,0 +1,1 @@
+DROP DATABASE Stud_Муслиманов_Абылай;
